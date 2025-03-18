@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\saving\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saving\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\cleardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\cleardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\blocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\blocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\myintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\myintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\moneycount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moneycount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\water\\waterplanegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\water\\waterplanegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\water\\watercollide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\water\\watercollide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\water\\makesomenoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\water\\makesomenoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\unlocking\\unlockingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unlocking\\unlockingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\saving\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saving\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\policecars\\policecaractivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policecars\\policecaractivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\policecars\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policecars\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|C:\\Users\\Misha\\Desktop\\HighwayRunner\\assets\\scripts\\gamemode1scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLEARDATA.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\CLEARDATA.cs",
+              "RelativeDocumentMoniker": "Assets\\CLEARDATA.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\CLEARDATA.cs",
+              "RelativeToolTip": "Assets\\CLEARDATA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:30:28.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blocker.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Blocker.cs",
+              "RelativeDocumentMoniker": "Assets\\Blocker.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Blocker.cs",
+              "RelativeToolTip": "Assets\\Blocker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:30:23.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyIntroduction.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\MyIntroduction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MyIntroduction.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\MyIntroduction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MyIntroduction.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:30:12.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoneyCount.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\MoneyCount.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoneyCount.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\MoneyCount.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoneyCount.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:30:09.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaterPlaneGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\WaterPlaneGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Water\\WaterPlaneGenerator.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\WaterPlaneGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Water\\WaterPlaneGenerator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:29:58.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WaterCollide.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\WaterCollide.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Water\\WaterCollide.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\WaterCollide.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Water\\WaterCollide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:29:55.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MakeSomeNoise.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\MakeSomeNoise.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Water\\MakeSomeNoise.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\MakeSomeNoise.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Water\\MakeSomeNoise.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:29:51.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnlockingCar.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Unlocking\\UnlockingCar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unlocking\\UnlockingCar.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Unlocking\\UnlockingCar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unlocking\\UnlockingCar.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:29:21.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Saving\\Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saving\\Stats.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Saving\\Stats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saving\\Stats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:29:04.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Save.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Saving\\Save.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saving\\Save.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Saving\\Save.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saving\\Save.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:28:57.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PoliceCarActivate.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\PoliceCars\\PoliceCarActivate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoliceCars\\PoliceCarActivate.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\PoliceCars\\PoliceCarActivate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoliceCars\\PoliceCarActivate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:28:51.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Police.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\PoliceCars\\Police.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoliceCars\\Police.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\PoliceCars\\Police.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoliceCars\\Police.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:28:44.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:28:34.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

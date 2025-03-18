@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\moneycount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moneycount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\water\\watercollide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\water\\watercollide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\water\\waterplanegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\water\\waterplanegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\water\\makesomenoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\water\\makesomenoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\cleardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\cleardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\blocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\blocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\unlocking\\unlockingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unlocking\\unlockingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\saving\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saving\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\saving\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saving\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\policecars\\policecaractivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policecars\\policecaractivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\policecars\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policecars\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\carselectanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\carselectanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\civilianrigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\civilianrigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\emergencygroundspawm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\emergencygroundspawm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\grounddestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\grounddestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\groundspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\groundspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode2script\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode2script\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode2script\\groundspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode2script\\groundspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode2script\\g2mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode2script\\g2mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode2script\\groundid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode2script\\groundid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode2script\\g2sound1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode2script\\g2sound1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode2script\\g2sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode2script\\g2sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\caractivedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\caractivedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\wheelanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\wheelanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\wheelactivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\wheelactivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\velocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\velocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\truckrotationset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\truckrotationset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\swipecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\swipecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\randomscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\randomscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\movecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\movecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\destroygas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\destroygas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\carrotationset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\carrotationset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|c:\\users\\misha\\desktop\\highwayrunner\\assets\\scripts\\gamemode1scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA77A1C2-318F-4BA8-3CB5-ED2C2BDCBAD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemode1scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CLEARDATA.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\CLEARDATA.cs",
+              "RelativeDocumentMoniker": "Assets\\CLEARDATA.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\CLEARDATA.cs",
+              "RelativeToolTip": "Assets\\CLEARDATA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:22:13.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blocker.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Blocker.cs",
+              "RelativeDocumentMoniker": "Assets\\Blocker.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Blocker.cs",
+              "RelativeToolTip": "Assets\\Blocker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:22:11.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoneyCount.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\MoneyCount.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoneyCount.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\MoneyCount.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoneyCount.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:18:59.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaterPlaneGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\WaterPlaneGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Water\\WaterPlaneGenerator.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\WaterPlaneGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Water\\WaterPlaneGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:31:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaterCollide.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\WaterCollide.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Water\\WaterCollide.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\WaterCollide.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Water\\WaterCollide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:31:13.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MakeSomeNoise.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\MakeSomeNoise.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Water\\MakeSomeNoise.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Water\\MakeSomeNoise.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Water\\MakeSomeNoise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:31:07.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnlockingCar.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Unlocking\\UnlockingCar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unlocking\\UnlockingCar.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Unlocking\\UnlockingCar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unlocking\\UnlockingCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:30:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Saving\\Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saving\\Stats.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Saving\\Stats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saving\\Stats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:17:12.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Save.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Saving\\Save.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saving\\Save.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Saving\\Save.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saving\\Save.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:43:50.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PoliceCarActivate.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\PoliceCars\\PoliceCarActivate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoliceCars\\PoliceCarActivate.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\PoliceCars\\PoliceCarActivate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoliceCars\\PoliceCarActivate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:21:55.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Police.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\PoliceCars\\Police.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoliceCars\\Police.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\PoliceCars\\Police.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoliceCars\\Police.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:19:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarSelectAnim.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CarSelectAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\CarSelectAnim.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CarSelectAnim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\CarSelectAnim.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:17:52.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CivilianRigidBody.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CivilianRigidBody.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\CivilianRigidBody.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CivilianRigidBody.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\CivilianRigidBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:17:46.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroundSpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\GroundSpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\GroundSpawnManager.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\GroundSpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\GroundSpawnManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:17:06.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "K.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\K.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\K.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\K.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\K.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:17:02.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GroundSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\GroundSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode2Script\\GroundSpawn.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\GroundSpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode2Script\\GroundSpawn.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:16:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode2Script\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode2Script\\PlayerMove.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:13:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "G2Mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\G2Mainmenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode2Script\\G2Mainmenu.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\G2Mainmenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode2Script\\G2Mainmenu.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:12:54.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GroundID.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\GroundID.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode2Script\\GroundID.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\GroundID.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode2Script\\GroundID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:12:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "G2Sound1.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\G2Sound1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode2Script\\G2Sound1.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\G2Sound1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode2Script\\G2Sound1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:11:14.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "G2Sound.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\G2Sound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode2Script\\G2Sound.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode2Script\\G2Sound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode2Script\\G2Sound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:11:12.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WheelAnimations.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\WheelAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\WheelAnimations.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\WheelAnimations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\WheelAnimations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:06:28.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GroundDestroy.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\GroundDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\GroundDestroy.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\GroundDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\GroundDestroy.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:01:25.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmergencyGroundSpawm.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\EmergencyGroundSpawm.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\EmergencyGroundSpawm.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\EmergencyGroundSpawm.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\EmergencyGroundSpawm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:01:19.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WheelActivate.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\WheelActivate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\WheelActivate.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\WheelActivate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\WheelActivate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:06:22.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Velocity.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\Velocity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\Velocity.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\Velocity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\Velocity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:06:13.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TruckRotationSet.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\TruckRotationSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\TruckRotationSet.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\TruckRotationSet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\TruckRotationSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:06:08.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SwipeControls.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\SwipeControls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\SwipeControls.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\SwipeControls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\SwipeControls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:05:54.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\Sound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\Sound.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\Sound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\Sound.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:04:49.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "randomscript.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\randomscript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\randomscript.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\randomscript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\randomscript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:03:26.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MoveCar.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\MoveCar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\MoveCar.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\MoveCar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\MoveCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:03:01.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CarActiveDetector.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CarActiveDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\CarActiveDetector.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CarActiveDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\CarActiveDetector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:59:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DestroyGas.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\DestroyGas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\DestroyGas.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\DestroyGas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\DestroyGas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:00:57.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CarRotationSet.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CarRotationSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\CarRotationSet.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CarRotationSet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\CarRotationSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:59:57.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemode1Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\HighwayRunner\\Assets\\Scripts\\Gamemode1Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemode1Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:45:10.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
